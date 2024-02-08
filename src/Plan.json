@@ -1,0 +1,163 @@
+
+{
+    "Montag":[
+        {
+            "Zeit":"15.45 - 16.30 Uhr",
+            "Gruppe":"Hip Hop Kids fortg",
+            "comentar":"ca. 11 - 14 Jahre"
+        },
+        {
+            "Zeit":"16.30 - 17.30 Uhr",
+            "Gruppe":"Impressed",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"17.30 - 18.30 Uhr",
+            "Gruppe":"Bust-A-Move",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"18.30 - 19.30 Uhr",
+            "Gruppe":"Werc",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"19.30 - 20.15 Uhr",
+            "Gruppe":"Zumba",
+            "comentar":"Fitness",
+            "Urban":"true"
+        },
+        {
+            "Zeit":"20.15 - 21.00 Uhr",
+            "Gruppe":"Zumba",
+            "comentar":"Fitness",
+            "Urban":"true"
+        } 
+    ],
+    "Dienstag":[
+        {
+            "Zeit":"15.15 - 16.00 Uhr",
+            "Gruppe":"Hip Hop Bambinis",
+            "comentar":"ca. 3 - 5 Jahre"
+        },
+        {
+            "Zeit":"16.05 - 16.50 Uhr",
+            "Gruppe":"Hip Hop Midis",
+            "comentar":"ca. 6 - 8 Jahre"
+        },
+        {
+            "Zeit":"16.55 - 17.40 Uhr",
+            "Gruppe":"Hip Hop Mini Kids",
+            "comentar":"ca. 8 - 10 Jahre"
+    
+        },
+        {
+            "Zeit":"17.45 - 18.30 Uhr",
+            "Gruppe":"Hip Hop Kids",
+            "comentar":"ca. 11 - 15 Jahre"
+        },
+        {
+            "Zeit":"18.30 - 19.30 Uhr",
+            "Gruppe":"Hip Hop Adults",
+            "comentar":"ab 16 Jahren",
+            "Urban":"true"
+        },
+        {
+            "Zeit":"19.30 - 20.30 Uhr",
+            "Gruppe":"Hip Hop Ü-30 ",
+            "comentar":"ab 30 Jahren",
+            "Urban":"true"
+        }
+    
+    ],
+    "Mittwoch":[
+        {
+            "Zeit":"15.45 - 16.30 Uhr",
+            "Gruppe":"Hip Hop Kids fortg.",
+            "comentar":"ca. 11 - 14 Jahre"
+        },
+        {
+            "Zeit":"16.30 - 17.30 Uhr",
+            "Gruppe":"Impressed",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"17.30 - 18.30 Uhr",
+            "Gruppe":"Bust-A-Move",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"18.30 - 19.30 Uhr",
+            "Gruppe":"Werc",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Zeit":"19.30 - 20.15 Uhr",
+            "Gruppe":"Zumba",
+            "comentar":"Fitness",
+            "Urban":"true"
+        },
+        {
+            "Zeit":"20.15 - 21.00 Uhr",
+            "Gruppe":"Zumba",
+            "comentar":"Fitness",
+            "Urban":"true"
+        }
+    ],
+    "Donnerstag":[
+        {
+            "Zeit":"15.30 - 16.15 Uhr",
+            "Gruppe":"Kinder",
+            "comentar":"Ballett"
+        },
+        {
+            "Zeit":"16.15 - 17.00 Uhr",
+            "Gruppe":"Hip Hop Bambinis",
+            "comentar":"ca. 3 - 5 Jahre"
+        },
+        {
+            "Zeit":"17.05 - 17.50 Uhr",
+            "Gruppe":"Hip Hop Midis",
+            "comentar":"ca. 6 - 8 Jahre"
+        },
+        {
+            "Zeit":"17.55 - 18.40 Uhr",
+            "Gruppe":"Hip Hop Mini Kids",
+            "comentar":"ca. 8 - 10 Jahre"
+        },
+        {
+            "Zeit":"19.30 - 21.00 Uhr",
+            "Gruppe":"Yoga",
+            "comentar":"mit Zuzahlung",
+            "Urban":"true"
+        }
+        
+    ],
+    "Freitag":[
+        {
+            "Zeit":"19.30 - 21.00 Uhr",
+            "Gruppe":"Show Company",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Tag":"Samstag"
+        },
+        {
+            "Zeit":"19.30 - 21.00 Uhr",
+            "Gruppe":"Show Company",
+            "comentar":"geschl. Gruppe"
+        },
+        {
+            "Tag":"Sonntag"
+        },
+        {
+            "Zeit":"19.30 - 21.00 Uhr",
+            "Gruppe":"Show Company",
+            "comentar":"geschl. Gruppe"
+        }
+       
+        
+    ]
+    
+}
+
